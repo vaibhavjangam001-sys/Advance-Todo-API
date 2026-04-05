@@ -1,0 +1,30 @@
+{
+  "Todos": [
+    {
+      "text": "Complete the detailed client project report including data analysis, charts, performance insights, and final documentation, and make sure everything is reviewed properly before submission 📊",
+      "category": "💼 Work",
+      "priority": [
+        "High",
+        "bg-red-500"
+      ],
+      "createDate": "28/3/2026, 9:54:23 pm",
+      "revEndDate": "25-03-2026",
+      "status": "Completed",
+      "id": "dad0"
+    },
+    {
+      "text": "Practice and solve at least 5 Data Structures and Algorithms problems focusing on binary search, arrays, and hashing, and revise all concepts with proper understanding and dry run 📚",
+      "category": "💪 Health",
+      "priority": [
+        "Medium",
+        "bg-yellow-500"
+      ],
+      "createDate": "28/3/2026, 10:04:27 pm",
+      "revEndDate": "28-03-2026",
+      "status": "Completed",
+      "id": "10b5"
+    }
+  ],
+
+  "$schema": "./node_modules/json-server/schema.json"
+}
