@@ -1,7 +1,8 @@
 {
   "name": "todo-api",
   "version": "1.0.0",
+  "type": "module",
   "scripts": {
-    "start": "npx json-server --watch Todo.json --port 10000"
+    "start": "node server.js"
   }
 }
